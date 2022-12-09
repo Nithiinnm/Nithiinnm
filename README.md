@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Nithiinnm
-- 👀 I’m interested in Java 
-- 🌱 I’m currently learning Spring Boot with Rest Services
+- 👀 I’m a Java Developer
 - 💞️ I’m looking to collaborate on Micro Services
 - 📫 How to reach me by email
 
